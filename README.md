@@ -23,5 +23,6 @@
 ### Credits ❤
 
 - [Lonami](https://github.com/LonamiWebs/Telethon) for telethon
+- [Repo](https://github.com/sadew451/AnonymousSenderBot.git)
 
-<br>🏷 Join [support group](https://t.me/SDBOTz) for any help
+<br>🏷 Join [bot channel](https://t.me/epusthakalaya_bots) for any help
