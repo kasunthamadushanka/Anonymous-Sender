@@ -51,7 +51,7 @@ else:
 @JEBotZ.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     if event.is_private:
-       await event.reply("Hey, I'm 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓 \n\nClick on help to find out how to use me\n\n**@epusthakalaya_bots**", 
+       await event.reply("Hey, I'm 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓 \n\nClick on help to find out how to use me\n\n**Join 🔰@epusthakalaya_bots™🔰**", 
                          buttons=[[Button.inline("🆘 Help 🆘", data="help")], 
                                   [Button.url("📣 Bot Channel 📣", url="https://t.me/epusthakalaya-bots"), Button.url("💾 Source 💾", url="https://github.com/kasunthamadushanka/Anonymous-Sender")]]),
                                   [Button.url("⛑ Developer ⛑", url="https://t.me/kasu_bro")]
@@ -67,7 +67,7 @@ async def _(event):
     
 @JEBotZ.on(events.callbackquery.CallbackQuery(data="start"))
 async def _(event):
-     await event.edit("Hey, I'm 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓 \n\nClick on help to find out how to use me\n\n**@epusthakalaya_bots**", 
+     await event.edit("Hey, I'm 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓 \n\nClick on help to find out how to use me\n\n**Join 🔰@epusthakalaya_bots™🔰**", 
                        buttons=[[Button.inline("🆘 Help 🆘", data="help")], 
                                 [Button.url("📣Bot Channel 📣", url="https://t.me/epusthakalaya_bots"), Button.url("💾 Source 💾", url="https://github.com/kasunthamadushanka/Anonymous-Sender")]]),
                                 [Button.url("⛑ Developer ⛑", url="https://t.me/kasu_bro")]
