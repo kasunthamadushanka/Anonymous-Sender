@@ -1,4 +1,4 @@
-# Anonymous Sender Bot 👨‍💻
+# 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓
 
 ## Advanced Anonymous Sender with Caption Editer
 
