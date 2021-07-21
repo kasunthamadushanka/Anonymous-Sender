@@ -2,6 +2,10 @@
 
 ## Advanced Anonymous Sender with Caption Editer
 
+<p align="center">
+  <img src="https://telegra.ph/file/982e63aa0c35a5fb83439.jpg">
+</p>
+
 ### Features 🧐
 
 - Anonymize the sender and remove forward tag of forwarded media files
