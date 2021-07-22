@@ -53,7 +53,8 @@ async def start(event):
     if event.is_private:
        await event.reply("Hey, I'm 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓 \n\nClick on help to find out how to use me\n\n**Join 🔰@epusthakalaya_bots™🔰**", 
                          buttons=[[Button.inline("🆘 Help 🆘", data="help")], 
-                                  [Button.url("📣 Bot Channel 📣", url="https://t.me/epusthakalaya-bots"), Button.url("💾 Source 💾", url="https://github.com/kasunthamadushanka/Anonymous-Sender")]]),
+                                  [Button.url("📣 Bot Channel 📣", url="https://t.me/epusthakalaya-bots"), Button.url("💾 Source 💾", url="https://github.com/kasunthamadushanka/Anonymous-Sender")]
+                                  [Button.inline("🆘 Help 🆘", data="help]]),
        return
     if event.is_group:
        await event.reply("Hey, I'm 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐒𝐄𝐍𝐃𝐄𝐑 𝐁𝐎𝐓") 
